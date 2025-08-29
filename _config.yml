@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot (1).jpeg"
+  avatar           : "profile.png"
   name             : "Arijit Mukherjee"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at Dangl lab, UNC Chapel Hill"
