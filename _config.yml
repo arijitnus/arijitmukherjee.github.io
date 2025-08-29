@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Arijit Mukherjee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc at Dangl lab, UNC Chapel Hill"
+  location         : "Chapel Hill, North Carolina, USA"
+  employer         : "Howard Hughes Medical Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arijitm@unc.edu" 
 
   # Academic websites
   academia         : # URL
